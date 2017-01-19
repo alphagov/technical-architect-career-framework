@@ -1,1 +1,99 @@
 = The Technical Architect interview process
+
+Our recruitment for technical architects is different to the GDS developer recruitment process. The biggest difference between the two is that instead of the pair programming exercise that is used in the developer recruitment process, we instead use a roleplay exercise that while technical also looks at how you can interact with non-technical stakeholders or domain experts.
+
+Our interview process currently consists of three stages:
+
+* a review of your application
+* a phone interview
+* a face to face interview.
+
+== Applying
+
+We ask candidates to supply a covering letter, as well as their CV. The covering letter is important. It might feel like you CV gives us all the information we need to understand your history and skills. But, what might be clear to you can be difficult to interpret for a reviewer who has less knowledge of your career.
+
+The covering letter is a chance for you to highlight the experience that shows you meet the job description. It also gives you the chance to explain what you are looking for from the role. You can also talk about what you want to get out of working with GDS. 
+
+By providing more context about how your experience meets the job description requirements, you make it easier to review your CV. And, it makes it more likely that we will be able to advance your application to the next stage.
+Phone interview
+
+Our phone interview stage is currently relatively short and has a technical focus. The questions you’ll be asked will draw upon issues that have arisen out of building and operating services within GDS. 
+This stage is about checking for a match with the requirements of the technologies we use, and less focused on your career and experience to date.
+
+At the end of the interview, you also have a chance to ask any immediate questions you have about the role of technical architects, or working at GDS in general.
+
+Taking into account candidate’s questions, most phone interviews last around 30 minutes.
+
+To prepare for this stage of the interview process, it is a good idea to look at the open repositories in our Github repo. Here, you can see the kind of technologies we are using and how projects are structured.
+
+GDS publishes blog frequently about the kind of work we are doing, it is worth reading through the posts to get a sense of what we are working on and what technologies we are using.
+
+== Face to face interview
+
+The final face to face interview is made up of the following stages: 
+
+* competency-based questions around the civil service competencies 
+* a presentation exercise based around a fictionalised historical problem GDS has dealt with
+* a short building tour
+* a series of short technical questions
+
+The interview can vary in length, but is usually between 2 and 3 hours. The full time depends on what questions a candidate asks, what they want to see on the building tour and also how concisely the candidate answers our questions.
+
+=== Competency questions
+
+We know that most software projects are result of effective teamwork; as we like to say, “the unit of delivery is the team”. However, for the purpose of competency-based interviews, it is important to stick to your contribution and demonstrate your capabilities. 
+
+You should be using “I” not “we”, and telling the interviewers what you had to do and learn about to be successful in resolving situations you’ve encountered. While you might be worried about coming across as egotistical, it helps the interviewers understand what you’ve done in the past. If you haven’t done competency-based interviewing before, then it is worth taking some time to practice it and read through some example answers.
+
+It’s also important to make sure you’ve understand the question and check what kind of things the interviewers are looking for in the answer. If you do not understand the question, then ask for clarification. If you are not sure whether the example you are going to give is appropriate, then give a quick summary to your interviewers and ask whether it is suitable. If you have multiple possible examples, summarise them, and let the interviewers choose which one they think is most relevant.
+
+Don’t be afraid to ask for a little time to think about your answer. 
+
+Finally, follow the interviewer’s lead if they ask a follow-up question. Try to provide more detail around what they are asking. 
+If you feel there was a problem with the answer you gave, then check it with the interviewers. If they feel they need to, they may choose to ask another question., or they may tell you your answer was fine. Either way you can stop worrying about whether it was okay or not and concentrate on the next question.
+
+=== Presentation exercise
+
+In the presentation exercise, one of the interviewers will step out of the room and the other two interviewers will take on the role of non-technical advisors or domain experts on a project.
+
+You will be given a written statement of a problem, and will then have between 30 to 45 minutes to question the domain experts and to formulate a design that meets the requirements of the problem statement.
+
+After this, the third interviewer will return in the guise of a chief technology officer, who you will brief on your proposed solution. The briefing is generally in the form of a verbal presentation, followed by questions from the interviewer to clarify their understanding of your proposal.
+
+In our work as technical architects, we are often asked to review technical proposals or problems and provide feedback or outline solutions, so this situation is not an uncommon one to encounter if you successfully pass the interview.
+
+Experience is really valuable in this exercise: conducting project reviews or deciding on budget requests are very similar tasks. My advice on approaching the problem would be to read the statement carefully. There are no tricks or hidden information, but the problem does not have an obvious, easy solution - just like the real world.
+
+Do take advantage of the advisors. Ask as many questions as you need to help you understand what constraints there might be on a workable solution. All software projects require a trade off between requirements, deadlines, scope and capacity so make sure you understand where you are choosing to compromise. Think about what is required to support the solution and enable its delivery.
+
+After you’ve gathered some information, try and determine priorities and then finally consider how to meet those priorities.
+
+When presenting the solution, take a moment to consider what the most important things are to understand about the work you’re proposing and make sure that you convey them in simple and direct way.
+
+Think of how you would present a complex problem, if you had to brief your boss on an elevator ride. Make sure you give a high-level overview and then follow the lead of any questions in terms of filling in the detail.
+
+=== Technical questions
+
+The technical questions are very similar to those in the telephone interview. They are relatively short but open questions, on topics related to the kind of development work and design problems we see at GDS.
+
+The only additional advice for these over the telephone questions is that, with the more open questions, you might need to decide whether you give a broad answer or an in-depth one. Again, it is fine to discuss the kind of answer that would be appropriate with the interviewers.
+
+=== Candidate questions
+
+The face to face interview ends with the chance for you, the candidate, to ask questions. Interviews are a two-way process, though sometimes it might not feel that way. We want to help you understand whether this would be the right job for you. We want you to come away from the interview knowing whether you would accept the offer of working with us or not.
+
+Some aspects, for example salary or annual leave, cannot be discussed at the interview itself. We need to complete the whole interview process before we can begin a negotiation. However, outside contractual issues, we can discuss any aspect of working life for technical architects or working at GDS in general.
+
+We can talk about how we delivery and operate services, our agile delivery process and the way our multi-disciplinary teams work together to own and solve problems. We can talk about our current public projects and plans.
+
+We should be able to give you an answer to any concerns or reservations you have and say whether your hopes for the new role are realistic and give examples of how people have been successful in role before you.
+
+== Starting at GDS
+
+If you are successful in your interview process we then negotiate a start date with you, once the date is agreed, then we will talk to you about particular placements and projects that might be available when you start.
+
+If you have a long notice period, then we may try to arrange a meeting with you and your prospective new teams to help you understand what they are working on and what challenges they are looking to overcome, as well as what role you might play in your new job.
+
+We will also try to invite you to any community events that happen during your notice period, such as away days, so that you can get a better understanding of GDS before you actually join.
+
+You will also be given  a point of contact who can help you with any practical issues or questions you have while you are waiting to start.
