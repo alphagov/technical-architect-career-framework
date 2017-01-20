@@ -37,7 +37,7 @@ https://gdstechnology.blog.gov.uk[GDS blogs frequently] about the kind of work w
 
 The face to face interview is made up of the following stages:
 
-* competency-based questions around the civil service competencies
+* competency-based questions around http://resources.civilservice.gov.uk/wp-content/uploads/2012/07/Civil-Service-Competency-Framework-Feb2013.pdf[the civil service competencies]
 * a presentation exercise based around a fictionalised historical problem GDS has dealt with
 * a short building tour
 * a series of short technical questions
@@ -82,7 +82,7 @@ After you’ve gathered some information, try and determine priorities and then 
 
 When presenting the solution, take a moment to consider what the most important things are to understand about the work you’re proposing and make sure that you convey them in simple and direct way.
 
-Think of how you would present a complex problem, if you had to brief your boss on an elevator ride. Make sure you give a high-level overview and then follow the lead of any questions in terms of filling in the detail.
+Think of how you would present a complex problem, if you had to https://en.wikipedia.org/wiki/Elevator_pitch[brief your boss on an elevator ride]. Make sure you give a high-level overview and then follow the lead of any questions in terms of filling in the detail.
 
 === Technical questions
 
