@@ -46,6 +46,12 @@ The interview can vary in length, but is usually between 2 and 3 hours. The time
 
 === Competency questions
 
+Competency questions aim to illustrate the skills and experience you have by allowing you to demonstrate the capabilities through short anecdotes about things you have actually done. They do not necessarily be drawn from work situations as long as they are relevant to the question.
+
+Examples of competency-based questions would be: "tell me about a time you had to persuade people to take a course of action" or "describe a situation where you had to deal with tight deadlines".
+
+==== Answering compentency questions
+
 We know that most software projects are result of effective teamwork; as we like to say, “the unit of delivery is the team”. However, for the purpose of competency-based interviews, it is important to stick to your contribution and demonstrate your capabilities.
 
 You should be using “I” not “we”. You should tell the interviewers what you had to do and learn about to be successful in resolving situations you’ve been involved in.
