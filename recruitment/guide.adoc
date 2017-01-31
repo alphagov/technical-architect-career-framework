@@ -52,8 +52,6 @@ You should be using “I” not “we”. You should tell the interviewers what 
 
 While you might be worried about coming across as egotistical, it helps the interviewers understand what skills and knowledge you bring to your teams.
 
-If you haven’t done competency-based interviewing before, then it is worth taking some time to practice it and read through some example answers.
-
 It’s also important to make sure you’ve understood the question and check what kind of things the interviewers are looking for in the answer.
 
 If you do not understand the question, then ask for clarification. If you are not sure whether the example you are going to give is appropriate, then give a quick summary to your interviewers and ask whether it is suitable. If you have multiple possible examples, summarise them, and let the interviewers choose which one they think is most relevant.
@@ -63,6 +61,21 @@ Don’t be afraid to ask for a little time to think about your answer.
 Finally, follow the interviewer’s lead if they ask a follow-up question. Try to provide more detail around what they are asking.
 
 If you feel there was a problem with the answer you gave, then check it with the interviewers. If they feel they need to, they may choose to ask another question., or they may tell you your answer was fine. Either way you can stop worrying about whether it was okay or not and concentrate on the next question.
+
+==== The STAR framework
+
+If you haven’t done competency-based interviewing before you can use the following structure (commonly referred to by acronym "star").
+
+* Situation
+* Task
+* Action
+* Result
+
+First of all explain the background and context to what happened, this is the Situation. Then explain what was required to resolve the situation, the people, skills, knowledge or work. These are the Tasks that were needed.
+
+The explain the Actions that you personally took to help resolve the situation and complete the tasks.
+
+Finally explain the Result of the actions and how the situation was ultimately resolved. You can also explain at this point anything you learnt and anything you might do differently in a similar situation if you encounter it again.
 
 === Presentation exercise
 
